@@ -6,8 +6,8 @@ This Proof of Concept (POC) focuses on the intricacies of revenue forecasting, u
 Ensure that the directory structure is as follows:
 
 ```
-your_package/
-|-- your_package/
+snowflakePOC/
+|-- snowflakePOC/
 |   |-- __init__.py
 |   |-- performAnalysis.py
 |   |-- uploadData.py
