@@ -35,7 +35,7 @@ snowflakePOC/
     }
 
 
-Dataset Folder: Create a folder named Dataset and place items.csv inside it. The dataset can be downloaded from [this link](https://www.kaggle.com/datasets/oscarm524/revenue-forecast)
+Dataset Folder: Create a folder named ```Dataset``` and place items.csv inside it. The dataset can be downloaded from [this link](https://www.kaggle.com/datasets/oscarm524/revenue-forecast)
 
 ## Installation
 
